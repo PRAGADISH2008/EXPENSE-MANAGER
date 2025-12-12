@@ -1,0 +1,19 @@
+{
+  "expenses": [],
+  "monthlimit": 1000.0,
+  "savingsgoal": 200.0,
+  "lastopened": "11-12-2025",
+  "subscriptions": [
+    {
+      "name": "recharge",
+      "amount": 350.0,
+      "duedate": "10-12-2025",
+      "repeat": "Monthly"
+    }
+  ],
+  "loggingstreak": 1,
+  "lastexpensedate": "07-12-2025",
+  "lastsummarymonth": "2025-12",
+  "username": "pragu",
+  "password": "2008"
+}
